@@ -1,0 +1,8 @@
+C:\Project\lsb2\bin\Debug\PictureKey.exe.config
+C:\Project\lsb2\bin\Debug\PictureKey.exe
+C:\Project\lsb2\bin\Debug\PictureKey.pdb
+C:\Project\lsb2\obj\Debug\PictureKey.csprojResolveAssemblyReference.cache
+C:\Project\lsb2\obj\Debug\PictureKey.frmMain.resources
+C:\Project\lsb2\obj\Debug\PictureKey.csproj.GenerateResource.Cache
+C:\Project\lsb2\obj\Debug\PictureKey.exe
+C:\Project\lsb2\obj\Debug\PictureKey.pdb
